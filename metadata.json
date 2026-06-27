@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Analysis",
+  "description": "Analyze customer churn using Python Google Colab notebooks loaded from Google Drive and AI-driven insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
