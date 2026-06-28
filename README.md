@@ -31,11 +31,3 @@ Check out the deployed application here: **[https://customer-churn-analysis-vheh
 
 ---
 
-## 💻 Local Setup & Installation
-
-Follow these steps to spin up the codebase locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Moneesh007-tech/Customer-Churn-Analysis..git](https://github.com/Moneesh007-tech/Customer-Churn-Analysis..git)
-   cd customer
